@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/krsnv/frontend-project-46/issues"
   },
-  "homepage": "https://github.com/krsnv/frontend-project-46#readme"
+  "homepage": "https://github.com/krsnv/frontend-project-46#readme",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "ini": "^1.3.5",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15"
+  }
 }
